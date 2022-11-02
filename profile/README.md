@@ -10,4 +10,4 @@ Menous technologies is an organization that develops software and technlogies to
 
 ## Members
 1) Snehashish Laskar (Co-Founder and CEO)
-2) Ishan Kashyap (Co-founder and senior developer)
+2) Ishan Kashyap (Co-founder and CTO)
