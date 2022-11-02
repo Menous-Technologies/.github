@@ -9,5 +9,5 @@ Menous technologies is an organization that develops software and technlogies to
 3) Menous Task Manager which is an alternative to Todoist
 
 ## Members
-1) Snehashish Laskar (Founder and CEO)
+1) Snehashish Laskar (Co-Founder and CEO)
 2) Ishan Kashyap (Co-founder and senior developer)
