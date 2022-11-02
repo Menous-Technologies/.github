@@ -1,7 +1,7 @@
 # Menous Technologies
 
 ## Introduction:
-Menous technologies is an organization that develops software and technlogies to help others by improving the already existing software. Our goal is  to create open source software that can be used as an alternative to existing software that is more flexible and yet simple with core essential features that really matter. We here at Menous Technologies welcome you to our repositories which contains code to all our software. 
+Menous technologies is an organization that develops Inovative software and technologies. Our goal is  to create open source software that can be used as an alternative to existing software that is more flexible and yet simple with core essential features that really matter. We here at Menous Technologies welcome you to our repositories which contains code to all our software. 
 
 ## Current Projects:
 1) Menous DB which is an alternative to MySQL and MongoDB
